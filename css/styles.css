@@ -10940,12 +10940,10 @@ p.lead {
   background-color: #bd5d38;
 }
 
-<<<<<<< HEAD
 .dev-icons {
   font-size: 3rem;
 }
 
-=======
 .dev-icons li {
   font-size: 1.15rem;
   display: inline-flex;
@@ -10961,8 +10959,6 @@ p.lead {
   display: block;
 }
 
-
->>>>>>> dca441c (Improve skills section semantics and icon layout)
 section.resume-section {
   display: flex;
   align-items: center;
